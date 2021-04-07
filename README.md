@@ -1,2 +1,2 @@
-# Support-
-Raise an issue to get the invite from the community.
+# Community-Support !
+  - Raise an issue to get the invite from the community.
