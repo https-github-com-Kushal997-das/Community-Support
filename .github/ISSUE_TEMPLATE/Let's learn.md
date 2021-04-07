@@ -5,7 +5,7 @@ title: Invite me to the Community 🤗
 
 ---
 <!--
-The invitation will be sent to the GitHub Organization soon. We look forward to having you part of our community :boom: 🚀
+The invitation will be sent to the GitHub Organization soon. We look forward to having you part of our community 🚀
 Don't forget after accepting to make the profile public so it appears on your GitHub profile for everyone else to see, you can do this by finding your name in the GitHub organization list and change the dropdown to the public: https://github.com/orgs/https-github-com-Kushal997-das/people
 -->
 
@@ -23,4 +23,4 @@ Please invite me to the GitHub Community Organisation.
 - #### Additional Context:
 <!--How you came to know about this community?-->
 
-<!--Why do you want to join?-->
+<!--Why do you want to join?🤔-->
