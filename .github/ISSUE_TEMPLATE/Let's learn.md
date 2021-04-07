@@ -1,5 +1,5 @@
 ---
-name: Please Invite me to Let's Learn 📒
+name: Please Invite me to Let's Learn Community 🎯
 about: Create an issue to join the community 😃
 title: Invite me to the Community 🤗
 
